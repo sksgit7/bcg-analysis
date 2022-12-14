@@ -27,3 +27,7 @@ a.	Application should perform below analysis and store the results for each anal
 1.  Be in the root directory (same path as that of main.py file)
 2.  Run ```$ make build``` to build the project. This will create a **dist** folder and copy main.py, config.json, data csv files and artifacts into it.
 3.  Run ```cd dist && spark-submit --py-files src.zip --files config.json main.py && cd ..``` to run the spark job.
+
+
+### Note- 
+The **Output** folder contains result of each analysis as csv files. And **output.txt** file contains the result that the code will print for each analysis.
