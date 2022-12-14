@@ -31,4 +31,4 @@ def write_csv(df, path):
     :return:
     """
 
-    df.coalesce(1).write.mode('overwrite').options(header=True).csv(path)
+    df.coalesce(1).write.mode("overwrite").options(header=True).csv(path)
