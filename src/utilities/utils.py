@@ -1,5 +1,6 @@
 import json
 
+
 def read_config(path):
     """
     Read config.json file
