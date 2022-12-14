@@ -1,20 +1,20 @@
 {
-  "input_paths" : {
-    "persons" : "Data/Primary_Person_use.csv",
-    "units" :  "Data/Units_use.csv",
-    "damages" : "Data/Damages_use.csv",
-    "charges" : "Data/Charges_use.csv",
-    "endorses" : "Data/Endorse_use.csv",
-    "restricts" : "Data/Restrict_use.csv"
+  "input_paths": {
+    "persons": "Data/Primary_Person_use.csv",
+    "units": "Data/Units_use.csv",
+    "damages": "Data/Damages_use.csv",
+    "charges": "Data/Charges_use.csv",
+    "endorses": "Data/Endorse_use.csv",
+    "restricts": "Data/Restrict_use.csv"
   },
-  "output_paths" : {
-    "A1" : "../Output/A1/",
-    "A2" : "../Output/A2/",
-    "A3" : "../Output/A3/",
-    "A4" : "../Output/A4/",
-    "A5" : "../Output/A5/",
-    "A6" : "../Output/A6/",
-    "A7" : "../Output/A7/",
-    "A8" : "../Output/A8/"
+  "output_paths": {
+    "A1": "../Output/A1/",
+    "A2": "../Output/A2/",
+    "A3": "../Output/A3/",
+    "A4": "../Output/A4/",
+    "A5": "../Output/A5/",
+    "A6": "../Output/A6/",
+    "A7": "../Output/A7/",
+    "A8": "../Output/A8/"
   }
 }
